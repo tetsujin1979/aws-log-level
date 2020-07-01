@@ -12,7 +12,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <awsversion>1.11.590</awsversion>
-        <awsloggingversion>2.12.0</awsloggingversion>
+        <awsloggingversion>2.13.3</awsloggingversion>
     </properties>
     <dependencies>
         <dependency>

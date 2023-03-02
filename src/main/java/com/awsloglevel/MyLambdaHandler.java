@@ -22,7 +22,7 @@ public class MyLambdaHandler implements RequestHandler<Void, Void> {
         LOGGER.warn("warn message");
         LOGGER.error("Log debug enabled: {}",  LOGGER.isDebugEnabled());
         LOGGER.debug("debug message");
-		return null;
+	return null;
 
     }
 
